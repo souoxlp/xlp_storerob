@@ -98,7 +98,7 @@ Each store has:
 - [ox_target](https://github.com/overextended/ox_target)
 
 ### 2. Installation
-1. Place the `xlp_storerob` folder in `resources/[testes]/`
+1. Place the `xlp_storerob` folder in `resources`
 2. Add to `server.cfg`:
 ```cfg
 ensure xlp_storerob
